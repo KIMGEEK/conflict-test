@@ -6,8 +6,10 @@ int main(){
 	
 	printf("A");
 	printf("G");
+  printf("H");
 	printf("J");
+  printf("C");
 	printf("H");
-	
+
 	return 0;
 }
